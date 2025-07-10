@@ -298,5 +298,4 @@ Se encontrar problemas ou tiver sugestões, verifique:
 
 **⭐ Se este projeto te ajudou, considere dar uma estrela! ⭐**
 
-*Made with ❤️ in Python*
 
